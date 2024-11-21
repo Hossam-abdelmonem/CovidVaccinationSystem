@@ -1,0 +1,12 @@
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\bin\Debug\net7.0\CovidVaccinationSystem.Core.deps.json
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\bin\Debug\net7.0\CovidVaccinationSystem.Core.dll
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\bin\Debug\net7.0\CovidVaccinationSystem.Core.pdb
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\CovidVaccinationSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\CovidVaccinationSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\CovidVaccinationSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\CovidVaccinationSystem.Core.AssemblyInfo.cs
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\CovidVaccinationSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\CovidVaccinationSystem.Core.dll
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\refint\CovidVaccinationSystem.Core.dll
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\CovidVaccinationSystem.Core.pdb
+C:\Users\Hossam\source\repos\CovidVaccinationSystem\CovidVaccinationSystem.Core\obj\Debug\net7.0\ref\CovidVaccinationSystem.Core.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CovidVaccinationSystem.props" />
+</Project>

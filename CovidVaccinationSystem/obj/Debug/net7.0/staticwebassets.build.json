@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Uvt3WIgtKHs5wwZEWVe6ST8VVo54rKbvS3keLSJhQWY=",
+  "Source": "CovidVaccinationSystem",
+  "BasePath": "_content/CovidVaccinationSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
